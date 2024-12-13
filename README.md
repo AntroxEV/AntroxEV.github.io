@@ -1,4 +1,4 @@
-# :computer: Author
+# 💻 Author
 
 **Dr Alessandro Tombari**
 
