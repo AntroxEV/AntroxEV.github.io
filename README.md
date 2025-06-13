@@ -24,6 +24,8 @@
  **QFAULT**: Quantum Fault Tree Analysis for PSA of nuclear power plants and SMRs
 
   **HLS**: Hourglass lattice structure (HLS) for a novel design of offshore and onshore wind turbine transition piece. Derived from the novel concept of Reduced Column Section approach and Houglass section (HGS)
+  
+  **GENDEM**: Generation of soil fatigue model parameters through random DEM
 
  ---
 # ⚡ Reference list for citations (mostly open-access). Thank you!
@@ -50,6 +52,18 @@
 [3] A. Tombari and R. Rostami, ‘A Novel Reduced Column Approach for the Mitigation of Earthquake-Induced Vibrations of Wind Turbines’, J. Phys.: Conf. Ser., vol. 2647, no. 3, p. 032004, Jun. 2024, doi: 10.1088/1742-6596/2647/3/032004. [(weblink)](https://iopscience.iop.org/article/10.1088/1742-6596/2647/3/032004)
 
 [4] R. Rostami and A. Tombari, ‘REDESIGNING THE TRANSITION PIECE FOR MITIGATING THE SEISMIC RESPONSE OF OFFSHORE WIND TURBINES’, presented at the 9th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece, 2023, pp. 143–157. doi: 10.7712/120123.10394.20234.  [(weblink)](https://www.eccomasproceedia.org/conferences/thematic-conferences/compdyn-2023/10394)
+
+ **GENDEM**:
+
+ [1] Alessandro Tombari and Fedor Maksimov, ‘Calibration of Cyclic Soil Degradation Models through the Discrete Element Method’, ISSMGE, Jul. 2022, doi: 10.53243/NUMGE2023-142.
+ 
+**[2] F. Maksimov and A. Tombari, ‘Derivation of Cyclic Stiffness and Strength Degradation Curves of Sands through Discrete Element Modelling’, Modelling, vol. 3, no. 4, pp. 400–416, Sep. 2022, doi: 10.3390/modelling3040026.**
+
+[3] A. Tombari, P. Cacciola, and F. Maksimov, ‘A Discrete Element-Based Monte Carlo Study for the Calibration of Cyclic Soil Degradation Models for Saturated Sands’, in 14 th International Conference on Applications of Statistics and Probability in Civil Engineering, Dublin, Ireland, Jul. 2023. [Online]. Available: http://www.tara.tcd.ie/bitstream/handle/2262/103328/submission_209.pdf?sequence=1&isAllowed=y
+
+[4] A. Tombari and F. Maksimov, ‘A Discrete Element-Based Approach to Calibrate Degradation Models of Uncertain Liquefiable Soils for the Seismic Analysis of Offshore Wind Turbines’, SSRN, preprint, 2023. doi: 10.2139/ssrn.4664082.
+
+**[5] A. Tombari and F. Maksimov, ‘A Discrete-Element-Based Approach to Generate Random Parameters for Soil Fatigue Models’, JMSE, vol. 13, no. 6, p. 1145, Jun. 2025, doi: 10.3390/jmse13061145.**
 
 
 
